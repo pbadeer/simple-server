@@ -1,0 +1,13 @@
+{
+  "name": "simple-server",
+  "version": "0.0.1",
+  "description": "A simple Node.js server.",
+  "main": "server.js",
+  "dependencies": {
+    "connect": "",
+    "serve-static": ""
+  },
+  "engines": {
+    "node": "0.10.x"
+  }
+}
